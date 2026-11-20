@@ -45,6 +45,4 @@ Questions about this GitHub account or our technical work? Reach out to [BitBarr
 
 ---
 
-<sub>The Athena Group is headquartered on the traditional territories of the Coast Salish, specifically the Nisqually and Squaxin Island people, otherwise known as Olympia, WA.</sub>
-
 <sub>The Athena Group uses AI-assisted tools as part of our research and drafting process. All AI-assisted content is reviewed, refined, and approved by our experienced consultants to ensure accuracy, cultural responsiveness, and alignment with our equity commitments. AI tools are never used as a substitute for genuine community engagement, professional judgment, or the relational expertise that defines our practice.</sub>
